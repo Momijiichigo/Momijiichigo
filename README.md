@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Momijiichigo
+# 👋 Hi, I’m Daichi (@Momijiichigo)
 - I am a high school student.
 - I’m interested in WASM / WASI, Shader Language, WebGPU, Web Transport API, GraphQL, Deno, and other Web technologies.
 
