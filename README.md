@@ -1,3 +1,5 @@
+<div style='position:absolute;width:1rem;height:1rem;inset:0;margin:auto;font-size:4rem;cursor:help;'>😵‍💫</div>
+
 # 👋 Hi, I’m Daichi (@Momijiichigo)
 - I am a high school student.
 - I’m interested in 
