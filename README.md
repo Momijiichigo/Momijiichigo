@@ -1,26 +1,23 @@
 <div align="center">
 
 # 👋 Hi, I’m Daichi (@Momijiichigo)
-  
+
+I'm always a noob to something.
 </div>
 
-- I am a high school student.
 - I’m interested in 
-  - WASM / WASI
+  - WASM
+  - Rust
   - Shader Language
-  - WebGPU
-  - Web Transport API
+  - GPGPU
   - GraphQL
-  - Deno
+  - Quantum Calculation
+  - Machine Learning
   - etc.
 - Currently developing
   - [BlueJSX](https://bluejsx.github.io), a simple, lightweight web frontend framework.
   - [Haklo Tech](https://haklo.tech) (the website is under development)
-- I am learning
-  - Rust
-  - Quantum Calculation
-- I would like to learn
-  - Machine Learning
+
 
 
 
