@@ -6,7 +6,7 @@
 
 ## About me
 
-Hello! I am an undergraduate student studying physics at the University of Texas at Austin.
+Hello! I am an undergraduate student studying physics!
 
 
 
@@ -14,6 +14,7 @@ Hello! I am an undergraduate student studying physics at the University of Texas
 
 - I’m currently learning
   - OS dev in Rust
+    - Learning from https://os.phil-opp.com/
   - GPGPU / Shader Language
     - [WGPU](https://wgpu.rs/)
   - ML
@@ -23,7 +24,7 @@ Hello! I am an undergraduate student studying physics at the University of Texas
     - messing around with RP2040
   - etc.
 
-- My Works
+- My Past Works
   - [BlueJSX](https://bluejsx.github.io), a simple, lightweight web frontend framework.
   - [Haklo Tech](https://haklo.tech) (the website is under development)
 
