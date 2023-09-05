@@ -8,7 +8,7 @@
 
 Hello! I am an undergraduate student studying physics!
 
-
+I like Rust language!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momijiichigo&hide=javascript,html,scss,css,webassembly&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&theme=dark" align="right">
 
