@@ -2,8 +2,6 @@
 
 # 👋 Hi, I’m Daichi (@Momijiichigo)
 
-I'm always a noob to something.
-
 </div>
 
 ## About me
