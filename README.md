@@ -6,7 +6,8 @@
 
 ## About me
 
-Hello! I am an undergraduate student studying physics!
+Hello!
+I'm Physics major undergrad student.
 
 I like Rust language!
 
