@@ -7,7 +7,7 @@
 ## About me
 
 Hello!
-I'm Physics major undergrad student.
+I'm an undergrad physics student!
 
 I like Rust language! 🦀
 
