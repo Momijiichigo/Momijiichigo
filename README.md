@@ -11,7 +11,7 @@ I'm an undergrad physics student!
 
 I like Rust language! 🦀
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momijiichigo&hide=javascript,html,scss,css,webassembly&exclude_repo=manjaro-config&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&theme=dark" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momijiichigo&hide=javascript,html,scss,css,webassembly&exclude_repo=manjaro-config,learn-raspberry-pi-os-rust&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&theme=dark" align="right">
 
 ### I’m currently learning
 
