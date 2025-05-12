@@ -17,7 +17,10 @@ I'm an undergrad physics student!
 ### What I do / What I use
 - GPGPU, Shader Programs
   - [WGPU](https://wgpu.rs/)
-  - physics calculation (Mean-Field theory, etc.)
+  - physics calculation / simulation
+- Julia-lang
+  - CUDA.jl
+    - physics calculation / simulation
 - Embedded Programming
   - [embassy-rs](https://github.com/embassy-rs/embassy)
   - Playing around with RP2040
