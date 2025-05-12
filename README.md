@@ -37,7 +37,7 @@ I'm an undergrad physics student!
 
 ### My Past Work
 - [BlueJSX](https://bluejsx.github.io), a simple, lightweight web frontend framework.
-- [Haklo Tech](https://haklo.tech) (the website is under development)
+- [www.haklo.tech](https://haklo.tech) (the website is under development)
   - Made with *BlueJSX*
 
 
