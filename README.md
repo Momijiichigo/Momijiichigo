@@ -12,7 +12,7 @@ I'm an undergrad physics student!
 - Condensed Matter Theory
 - I like Rust language! 🦀
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Momijiichigo&hide=javascript,html,scss,css,webassembly&exclude_repo=manjaro-config,learn-raspberry-pi-os-rust&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&theme=dark" align="right">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Momijiichigo&hide=javascript,html,scss,css,webassembly&exclude_repo=manjaro-config,learn-raspberry-pi-os-rust,imessage-for-me&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&theme=dark" align="right">
 
 ### What I do / What I use
 - GPGPU, Shader Programs
